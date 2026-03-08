@@ -1,0 +1,15 @@
+#make_it_to_The_Center {
+    color: black;
+    outline: solid black;
+    text-align: center;
+    background-image: url("CyberSecurity/weq.jpg");
+}
+
+.fontStyle {
+    font-size: 16px;
+}
+
+.cyberw {
+    font-size: 19px;
+    margin: 50px;
+}
