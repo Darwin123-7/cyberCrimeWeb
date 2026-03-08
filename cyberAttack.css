@@ -7,9 +7,27 @@
 
 .fontStyle {
     font-size: 16px;
+    line-height: 30px;
 }
 
 .cyberw {
     font-size: 19px;
-    margin: 50px;
+    margin: 80px;
+    text-align: justify;
+    line-height: 40px;
+}
+
+.Attacks {
+    margin: 80px;
+}
+.text {
+    font-size: 19px;
+    line-height: 40px;
+    margin: 0px;
+}
+
+.types_attack {
+    font-size: 20px;
+    line-height: 40px;
+    margin: 0px;
 }
