@@ -1,0 +1,54 @@
+h1 {
+    text-align: center;
+    color: black;
+    outLine: solid rgb(77, 77, 167);
+    background-color: rgb(139, 139, 192);
+    padding: 30px;
+    margin: 30px;
+    border-radius: 10px;
+}
+
+.Motto, .greetings, .Safety {
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.Motto, .Safety {
+    text-align: center;
+    font-size: 20px;
+}
+
+.greetings, .advertising, .service, .service2 {
+    text-align: left justify;
+    font-size: 19px;
+}
+
+.gurantee {
+
+    font-size: 18px;
+}
+
+#contactInfo, .info {
+    font-size: 19px;
+}
+
+.Aboutme {
+
+    text-align: bottom;
+}
+
+body {
+    text-align: justify left;
+}
+
+.service {
+
+    display: block;
+    gap: 2px;
+}
+
+.service2 {
+
+    display: block;
+    gap: 2px;
+}

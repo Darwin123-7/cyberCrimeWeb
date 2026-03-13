@@ -8,6 +8,7 @@
 .fontStyle {
     font-size: 16px;
     line-height: 30px;
+    padding: 0.2em;
 }
 
 .cyberw {
@@ -30,4 +31,11 @@
     font-size: 20px;
     line-height: 40px;
     margin: 0px;
+}
+
+.flex, #hehe {
+
+    display: flex;
+    gap: 20px;
+    align-items: center;
 }
